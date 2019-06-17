@@ -1,0 +1,36 @@
+
+*******************************************
+  Ejercicios basicos
+*******************************************
+
+	01.	ExampleSortLambdaUtilTester : Ejemplo de ordenacion de listas SIN Lambdas y CON Lambdas
+
+	02. ExampleCustomOperationTester : Ejemplo de lambdas sobre una clase imnplementando una interfaz de operaciones "calculadora"
+
+	03. ExampleFunctionalInterfacePredicateTester : Ejemplo de interfaz funcional usando predicados siendo implementadas mediante una capa de servicios
+
+	04. ExampleFunctionalInterfaceDefaultMethodsTester : Ejemplo de metodo por defecto en interfaces 
+
+	05. ExampleFunctionalInterfaceStaticMethodsTester : Ejemplo de metodo estáticos en interfaces 
+
+	06. ExampleMethodReferencesTester : Ejemplo de referencias a metodos mediante la ordenación de listas
+	
+	07. ExampleRepeatableAnnotationTester : Ejemplo de repeticion de anotación propia
+	
+	08. ExampleParameterNamesTester : Ejemplo de nombre de parametros para la clase Bank
+	
+	09. ExampleStreamsTester : Ejemplo de streams -> devolver el valor solicitado
+	
+	10. ExampleOptionalTester : Ejemplo de Optional para manejar la clase
+	
+	11. ExampleDateTimeFormatterTester : Ejemplo formateo de fechas con el nuevo API
+	
+	12. ExampleDateTimeAdvanceTester : Ejemplo de manejo avanzado de fechas: Period, Duration, etc.
+	
+	13. ExampleNashornTester : Ejemplo de uso de Nashor par invocar JS desde Java
+	
+	14. ExampleBase64Tester : Ejemplo para codificar base 64 la palabra test
+	
+	15. ExampleParallelTester : Ejemplo de ordenación de arrays paralelos
+	
+	16. Example Nashorn : Ejemplo para ejecutar ficheros js 

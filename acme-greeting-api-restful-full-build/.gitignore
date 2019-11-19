@@ -16,7 +16,7 @@
 *.rar
 
 ### Eclipse ###
-.metadata/
+.metadata
 .settings/
 .project
 .classpath

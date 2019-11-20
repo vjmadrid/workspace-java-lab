@@ -115,6 +115,12 @@
 
 		<plugins>
 
+			<!-- spring-boot-maven-plugin : Plugin used to clean the project -->
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-clean-plugin</artifactId>
+			</plugin>
+
 			<!-- spring-boot-maven-plugin : Plugin used to work with Spring Boot application -->
 			<plugin>
 				<groupId>org.springframework.boot</groupId>

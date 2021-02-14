@@ -15,7 +15,7 @@ import com.acme.greeting.api.restful.full.build.constant.GreetingRestApiConstant
 
 public class ExampleTestClient {
  
-    public static final String REST_SERVICE_URI = "http://localhost:8090";
+    public static final String REST_SERVICE_URI = "http://localhost:8091";
     
     private URL base;
     
